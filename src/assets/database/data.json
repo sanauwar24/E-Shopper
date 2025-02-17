@@ -1,0 +1,233 @@
+{
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 1,
+      "name": "Jeans"
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "name": "Trouer",
+      "id": 4
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Adidas"
+    },
+    {
+      "id": 2,
+      "name": "Mufti"
+    },
+    {
+      "name": "Gucci",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "Polo",
+      "id": 5
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Jeans slim fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "black",
+      "size": "32",
+      "baseprice": 6000,
+      "discount": 10,
+      "finalprice": 5400,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpeg",
+      "pic2": "p2.jpeg",
+      "pic3": "p3.jpeg",
+      "pic4": "p4.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "kids",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "black",
+      "size": "32",
+      "baseprice": 8000,
+      "discount": 10,
+      "finalprice": 7200,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpeg",
+      "pic2": "p2.jpeg",
+      "pic3": "p3.jpeg",
+      "pic4": "p4.jpeg"
+    },
+    {
+
+      "name": "Tshirt ",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Zara",
+      "color": "black",
+      "size": "40",
+      "baseprice": 4000,
+      "discount": 5,
+      "finalprice": 3800,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Tshirt for women",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "white",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Tshirt for women",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "white",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Tshirt for women",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "white",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Tshirt for women",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "white",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Tshirt for women",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "white",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "t1.jpeg",
+      "pic2": "t2.jpeg",
+      "pic3": "t3.jpeg",
+      "pic4": "t4.jpeg"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 0
+    }
+  ]
+}
